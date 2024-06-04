@@ -15,7 +15,8 @@ Welcome to the Foodie Website GitHub repository. This repository contains the so
 
 ## Demo
 
-Check out the live demo 
+Check out the live demo foodie-food_delivery-website-dreamweaver.github.io
+
 
 ## Features
 
