@@ -30,7 +30,7 @@ Check out the live demo foodie-food_delivery-website-dreamweaver.github.io
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/foodie-website.git
+    git clone https://github.com/sayisanthosh/foodie-website.git
     ```
 2. Navigate to the project directory:
     ```bash
